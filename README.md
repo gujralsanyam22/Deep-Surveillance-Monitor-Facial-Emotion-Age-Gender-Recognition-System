@@ -1,5 +1,5 @@
 # Deep-Surveillance-Monitor-Facial-Emotion-Age-Gender-Recognition-System
-Computer Vision module for detecting emotion, age and gender of a person in any given image, video or real time webcam. A custom VGG16 model was developed and trained on open source facial datasets downloaded from Kaggle and IMDB. OpenCV,dlib &amp; keras were used to aid facial detection and video processing. The final system can detect the emotion, age and gender of people in any given image, video or real time webcam.
+Computer Vision module is used for detecting emotion, age and gender of a person in any given image, video or real time webcam. A custom VGG16 model was developed and trained on open source facial datasets downloaded from Kaggle and IMDB. OpenCV,dlib &amp; keras were used to aid facial detection and video processing. The final system can detect the emotion, age and gender of people in any given image, video or real time webcam.
 
 # Screenshots
 ### Detect Emotion, Age, Gender in Any Image!
@@ -18,8 +18,8 @@ This network is characterized by its simplicity, using only 3×3 convolutional l
 More information can be found <a href="https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/">here</a>
 <br>
 <br>
-<b>Resnet</b> Unlike traditional sequential network architectures such as AlexNet, OverFeat, and VGG, ResNet is instead a form of “exotic architecture” that relies on micro-architecture modules (also called “network-in-network architectures”).
-The term micro-architecture refers to the set of “building blocks” used to construct the network. A collection of micro-architecture building blocks (along with your standard CONV, POOL, etc. layers) leads to the macro-architecture 
+<b>Resnet</b>. Unlike traditional sequential network architectures such as AlexNet, OverFeat, and VGG, ResNet is instead a form of “exotic architecture” that relies on micro-architecture modules (also called “network-in-network architectures”).
+The term micro-architecture refers to the set of “building blocks” used to construct the network. A collection of micro-architecture building blocks (along with your standard CONV, POOL, etc. layers) leads to the macro-architecture.
 <br>
 More information can be found <a href="https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/">here</a>
 <br>
