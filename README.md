@@ -25,6 +25,7 @@ More information can be found <a href="https://www.pyimagesearch.com/2017/03/20/
 <br>
 <br>
 
+
 # Technologies used
 <ul>
   <li><a href="https://opencv.org/">OpenCv</a></li>
